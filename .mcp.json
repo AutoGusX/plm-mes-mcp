@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "fusion-manage-plm": {
+      "type": "http",
+      "url": "http://localhost:8003/mcp"
+    },
+    "fusion-operations-mes": {
+      "type": "http",
+      "url": "http://localhost:8001/mcp"
+    }
+  }
+}

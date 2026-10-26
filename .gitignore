@@ -1,0 +1,20 @@
+# Secrets — DO NOT COMMIT (PLM/MES tokens & credentials)
+.env
+**/.env
+
+# Python virtualenvs & caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Claude local state
+.claude/
+
+# Generated demo artifacts (regenerable from the cia-pptx scripts)
+*.pptx
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
